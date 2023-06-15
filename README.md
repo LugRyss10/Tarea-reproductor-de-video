@@ -6,4 +6,4 @@ URL de la pagina desplegada en surge: https://reproductordevideos.surge.sh/
 
 Integrantes: 
 Luiggi Rafael Reyes Santos: 2021-0019
-Daniel Encarnacion Florian: 2021-0283
+Daniel Encarnacion Florian: 2021-0289
